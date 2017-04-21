@@ -1,2 +1,2 @@
 # test
-test2 init
+test2 inist
